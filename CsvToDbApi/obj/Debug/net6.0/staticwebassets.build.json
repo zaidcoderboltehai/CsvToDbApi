@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TKZqPKc9kuM4vyEdQ2K1bsIj1WWUL35oW3xzu7G/098=",
+  "Source": "CsvToDbApi",
+  "BasePath": "_content/CsvToDbApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
