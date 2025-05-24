@@ -71,3 +71,4 @@ C:\Users\Zaid Ansari\source\repos\CsvToDbApi\CsvToDbApi\obj\Debug\net6.0\refint\
 C:\Users\Zaid Ansari\source\repos\CsvToDbApi\CsvToDbApi\obj\Debug\net6.0\CsvToDbApi.pdb
 C:\Users\Zaid Ansari\source\repos\CsvToDbApi\CsvToDbApi\obj\Debug\net6.0\CsvToDbApi.genruntimeconfig.cache
 C:\Users\Zaid Ansari\source\repos\CsvToDbApi\CsvToDbApi\obj\Debug\net6.0\ref\CsvToDbApi.dll
+C:\Users\Zaid Ansari\source\repos\CsvToDbApi\CsvToDbApi\obj\Debug\net6.0\CsvToDbApi.sourcelink.json
